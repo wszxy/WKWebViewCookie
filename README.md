@@ -1,5 +1,6 @@
 # WKWebViewCookie
 如果已经开启了Apache和php设置，直接将web里的文件移到/Library/WebServer/Documents目录下。如果没有，请看下面的设置。
+
 **注意**：代码里的ip地址需要改成自己电脑的ip地址，电脑和手机要处于同一个局域网！
 
 **1.开启Apache**
